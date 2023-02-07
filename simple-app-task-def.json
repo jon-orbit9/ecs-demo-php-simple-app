@@ -9,7 +9,7 @@
     "containerDefinitions": [
         {
             "environment": [],
-            "name": "simple-app",
+            "name": "simple-app1",
             "image": "amazon/amazon-ecs-sample",
             "cpu": 10,
             "memory": 500,
