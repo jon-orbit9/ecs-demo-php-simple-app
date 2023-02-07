@@ -29,7 +29,7 @@
             }
         }
     ],
-    "family": "docker-lab-task",
+    "family": "demo-task",
     "executionRoleArn": "arn:aws:iam::280785411786:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
     "volumes": [],
